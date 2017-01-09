@@ -1,7 +1,7 @@
 # Meeting-Room-Expansion
-Objective: To create more meeting rooms for sales calls and 1:1s
+## Objective: To create more meeting rooms for sales calls and 1:1s
 
-Parameters:
+**Parameters:**
 Number of employees-
 Square feeet of space-
 Budget-
